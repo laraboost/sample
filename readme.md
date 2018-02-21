@@ -19,3 +19,6 @@ npm run dev
 ### Laravel Authentication
 #### [Documentation](https://laravel.com/docs/5.6/authentication)
 
+### Laravel Debug Bar
+#### [Documentation](https://github.com/barryvdh/laravel-debugbar)
+
