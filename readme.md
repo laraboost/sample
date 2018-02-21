@@ -25,3 +25,6 @@ npm run dev
 ### Laravel Horizon
 #### [Documentation](https://laravel.com/docs/5.6/horizon)
 
+### Laravel Passport
+#### [Documentation](https://laravel.com/docs/5.6/passport)
+
