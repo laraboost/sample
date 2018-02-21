@@ -22,3 +22,6 @@ npm run dev
 ### Laravel Debug Bar
 #### [Documentation](https://github.com/barryvdh/laravel-debugbar)
 
+### Laravel Horizon
+#### [Documentation](https://laravel.com/docs/5.6/horizon)
+
