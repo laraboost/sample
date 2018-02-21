@@ -13,4 +13,6 @@ npm run dev
 
 ## Add-ons
 
-No add-ons have been activated.
+### Laravel Front End Presets
+#### [Documentation](https://laravel.com/docs/5.6/frontend)
+
