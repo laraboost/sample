@@ -16,3 +16,6 @@ npm run dev
 ### Laravel Front End Presets
 #### [Documentation](https://laravel.com/docs/5.6/frontend)
 
+### Laravel Authentication
+#### [Documentation](https://laravel.com/docs/5.6/authentication)
+
